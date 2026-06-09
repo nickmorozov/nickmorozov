@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-Salesforce architect · founder of [Enum Solutions](https://enum.solutions). I build Salesforce platforms, native macOS apps, and AI dev tooling.
+Salesforce architect · founder of [Enum Solutions](https://enum.solutions). I build platforms, apps, and tooling.
 
 ### Pinned
 
